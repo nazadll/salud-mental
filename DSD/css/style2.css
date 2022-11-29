@@ -1,0 +1,26 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+h1{
+	font-family: 'calibri';
+	margin-left: 10px;
+	color: coral;
+	text-decoration: underline;
+}
+
+p{
+	font-family: 'calibri';
+	font-size: 19px;
+}
+
+h3{
+	font-family: 'calibri';
+	margin-left: 10px;
+	color:#0086b3;
+}
+
+li{
+	font-family: 'calibri';
+}
